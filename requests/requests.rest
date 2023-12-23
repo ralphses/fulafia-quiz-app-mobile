@@ -1,0 +1,5 @@
+http://localhost:8080/api/v1/exam/get?passcode=CSC111312755&matric=2031800111
+
+###
+
+POST http://localhost:8080/api/v1/exam/start/GST111
